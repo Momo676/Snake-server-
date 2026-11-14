@@ -1,0 +1,6 @@
+{
+  "name": "Damn Bruh — Slither Arena",
+  "description": "Fast-paced Slither.io arena webgame with custom photo-analyzed serpent skins powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
